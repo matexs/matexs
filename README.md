@@ -114,13 +114,13 @@ const matexs = {
 <div align="center">
 
 <a href="https://github.com/matexs/appinmobiliaria">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matexs&repo=project-1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matexs&repo=appinmobiliaria&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/matexs/fletway-angular">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matexs&repo=project-2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matexs&repo=fletway-angular&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/matexs/fletway-flask">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matexs&repo=project-3&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matexs&repo=fletway-flask&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
 
 </div>
