@@ -83,7 +83,7 @@ const matexs = {
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matexs&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff9f43&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matexs&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff9f43&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak Stats" />
 </div>
 
 ---
@@ -136,7 +136,6 @@ const matexs = {
     <img alt="github-snake" src="https://raw.githubusercontent.com/matexs/matexs/output/github-snake.svg" />
   </picture>
 </div>
-
 
 ---
 
