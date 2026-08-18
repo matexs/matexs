@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Hey%2C%20I'm%20Matexs%20👋&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18&descColor=8b949e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Hey%2C%20I'm%20Matexs%20👋&fontSize=50&fontColor=58a6ff&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=62&animation=fadeIn" alt="header"/>
 
 <!-- Visitas al perfil -->
 <img src="https://komarev.com/ghpvc/?username=matexs&label=Profile%20views&color=58a6ff&style=flat-square" alt="matexs" />
@@ -83,7 +83,7 @@ const matexs = {
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matexs&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff9f43&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&stroke=1a1a2e" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matexs&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff9f43&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
 </div>
 
 ---
@@ -91,12 +91,12 @@ const matexs = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matexs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matexs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matexs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matexs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matexs&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matexs&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" alt="Activity Graph" />
 </div>
 
 ---
@@ -114,13 +114,13 @@ const matexs = {
 <div align="center">
 
 <a href="https://github.com/matexs/appinmobiliaria">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matexs&repo=appinmobiliaria&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matexs&repo=appinmobiliaria&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="appinmobiliaria" />
 </a>
 <a href="https://github.com/matexs/fletway-angular">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matexs&repo=fletway-angular&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matexs&repo=fletway-angular&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="fletway-angular" />
 </a>
 <a href="https://github.com/matexs/fletway-flask">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matexs&repo=fletway-flask&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matexs&repo=fletway-flask&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="fletway-flask" />
 </a>
 
 </div>
@@ -147,7 +147,7 @@ const matexs = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-rey-a858bb190/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/matexsrp)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://matexs.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mateoreyx@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateoreyx@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matexs)
 
 </div>
@@ -157,7 +157,7 @@ const matexs = {
 <div align="center">
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn" alt="footer"/>
 
 <sub>⭐ Si te gustó algo de mi trabajo, ¡no dudes en dejar una estrella!</sub>
 
